@@ -54,15 +54,3 @@ else{
 
 
 
-
-
-// for (let turno = 1; turno <= 7; turno++) {
-//   let nombre = prompt("Ingrese el nombre");
-
-//   alert(`Turno #${turno} Nombre: ${nombre}`);
-// }
-
-// alert("Turnos terminados, intente mañana");
-
-
-
